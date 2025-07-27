@@ -10,4 +10,4 @@ The fusion of feature representations that come from different embedding spaces 
 PAEFF is a dual branch face-voice association framework that enables the model to align the embeddings of faces and voices in hyperbolic space by preserving the distances and complex relationships before fusing them.
 
 ## Architecture
-<img width="1024" alt="image" src="images/overall_architecture.png">
+<img width="768" alt="image" src="images/overall_framework.png">
