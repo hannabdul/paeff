@@ -14,7 +14,26 @@ PAEFF is a dual branch face-voice association framework that enables the model t
 ## Architecture
 <img width="768" alt="image" src="images/overall_framework.png">
 
+### Installation
+Please follow the instructions [here](https://github.com/msaadsaeed/FOP) to make the environment and install the libraries.
+You can also find the csv files of extracted features [here](https://github.com/msaadsaeed/FOP)
+
 ## Training
+You can utilize following command to train the model.
+```
+python main.py --save_dir ./model --lr 2e-5 --batch_size 1024 --max_num_epoch 50 --dim_embed 256 \
+--train_path_face <path_to_train_face_features> \
+--train_path_voice <path_to_train_voice_features> \
+--test_path_face <path_to_test_face_features> \
+--test_path_voice <path_to_test_voice_features>
+```
+
+## Testing
+Set your features file path test.py and use following command to evaluate your trained model
+```
+python test.py --ckpt <path to checkpoint.pth.tar> --dim_embed 256 
+```
+
 Model weights will be released soon !!!
 
 
