@@ -42,11 +42,14 @@ The codebase is inspired from the [FOP](https://github.com/msaadsaeed/FOP) repos
 
 ## Citation
 ```
-@inproceedings{hannan2025paeff,
-    title={PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association}, 
-    author={Hannan, Abdul and Manzoor, Muhammad Arslan and Nawaz, Shah and Liaqat, Muhammad Irzam and Schedl, Markus and Noman, Mubashir},
-    year={2025},
-    booktitle={InterSpeech}
+@inproceedings{hannan25_interspeech,
+  title     = {{PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association}},
+  author    = {Abdul Hannan and Muhammad Arslan Manzoor and Shah Nawaz and Muhammad Irzam Liaqat and Markus Schedl and Mubashir Noman},
+  year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {2710--2714},
+  doi       = {10.21437/Interspeech.2025-268},
+  issn      = {2958-1796},
 }
 
 @article{hannan2025paeff,
