@@ -1,6 +1,6 @@
 # Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association (InterSpeech 2025)
 
-The paper is available [arxiv](https://arxiv.org/abs/2505.17002)
+Paper link: [arxiv](https://arxiv.org/abs/2505.17002) &nbsp; [ISCA](https://www.isca-archive.org/interspeech_2025/hannan25_interspeech.html)
 
 ### Latest News
 - Code is released !!!
