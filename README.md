@@ -52,10 +52,13 @@ The codebase is inspired from the [FOP](https://github.com/msaadsaeed/FOP) repos
   issn      = {2958-1796},
 }
 
-@article{hannan2025paeff,
-    title={PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association},
-    author={Hannan, Abdul and Manzoor, Muhammad Arslan and Nawaz, Shah and Liaqat, Muhammad Irzam and Schedl, Markus and Noman, Mubashir},
-    journal={arXiv preprint arXiv:2505.17002},
-    year={2025}
+@misc{paeff2025,
+      title={PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association}, 
+      author={Abdul Hannan and Muhammad Arslan Manzoor and Shah Nawaz and Muhammad Irzam Liaqat and Markus Schedl and Mubashir Noman},
+      year={2025},
+      eprint={2505.17002},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.17002}, 
 }
 ```
