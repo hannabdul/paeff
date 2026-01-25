@@ -40,6 +40,13 @@ Model weights will be released soon !!!
 ## Acknowledgements
 The codebase is inspired from the [FOP](https://github.com/msaadsaeed/FOP) repository. We thank them for releasing their valuable codebase. 
 
+## Similar Works
+- [FAME](https://github.com/mavceleb/mavceleb_baseline) &nbsp; Face-voice Association in Multilingual Environments (FAME Challenge)
+- [SBNet](https://github.com/msaadsaeed/SBNet) &nbsp; Single-branch Network for Multimodal Training (ICASSP 2023)
+- [FOP](https://github.com/msaadsaeed/FOP) &nbsp; Fusion and Orthogonal Projection for Improved Face-Voice Association (ICASSP 2022)
+- [RFOP](https://github.com/techmn/rfop) &nbsp; Rethinking Fusion and Orthogonal Projection for Face-Voice Association (FAME 2026 ICASSP)
+- [MCS-FV](https://github.com/hcai-mms/MSM-face-voice) &nbbsp; Face-Voice Association with Inductive Bias for Maximum Class Separation (ICASSP 2026)
+
 ## Citation
 ```
 @inproceedings{hannan25_interspeech,
